@@ -59,10 +59,10 @@ public:
         // setHour(hour);
         cout << "Enter the Minute :";
         cin >> minute;
-        // setHour(minute);
+        // setMinute(minute);
         cout << "Enter the Second :";
         cin >> seconds;
-        // setHour(seconds);
+        // setSecond(seconds);
     }
 
     void displayTime()
